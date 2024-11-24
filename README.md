@@ -1,0 +1,1 @@
+# easygenerator-full-stack-task
